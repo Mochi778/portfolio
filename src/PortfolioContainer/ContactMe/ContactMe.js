@@ -72,7 +72,7 @@ export default function ContactMe(props) {
           <h2 className="title">
             <Typical loop={Infinity} steps={["Get In Touch 📧", 1000]} />
           </h2>{" "}
-          <a href="#">
+          {/* <a href="#">
             <i className="fa fa-facebook-square" />
           </a>
           <a href="#">
@@ -86,7 +86,7 @@ export default function ContactMe(props) {
           </a>
           <a href="#">
             <i className="fa fa-twitter" />
-          </a>
+          </a> */}
         </div>
         
         <div className="contact-info">

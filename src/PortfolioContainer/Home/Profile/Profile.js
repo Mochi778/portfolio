@@ -8,7 +8,7 @@ export default function Profile() {
     <div className="profile-container">
       <div className="profile-parent">
         <div className="profile-details">
-          <div className="colz">
+          {/* <div className="colz">
             <div className="colz-icon">
               <a href="#">
                 <i className="fa fa-facebook-square" />
@@ -24,9 +24,9 @@ export default function Profile() {
               </a>
               <a href="#">
                 <i className="fa fa-twitter" />
-              </a>
+              </a> 
             </div>
-          </div>
+          </div> */}
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
