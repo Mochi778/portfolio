@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Mochi778/portfolio",
+  "homepage": "https://mochi778.github.io/portfolio/",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.15",
